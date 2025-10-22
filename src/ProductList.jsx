@@ -11,7 +11,7 @@ function ProductList({ onHomeClick }) {
             plants: [
                 {
                     name: "Snake Plant",
-                    image: "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
+                    image: "snakeplant.jpg",
                     description: "Produces oxygen at night, improving air quality.",
                     cost: "$15"
                 },
